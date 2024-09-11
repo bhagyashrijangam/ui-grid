@@ -10,7 +10,7 @@
     "@ui-grid/core": "^4.12.0",
     "@ui-grid/edit": "^4.12.0",
     "angular": ">=1.4.0 1.8.x",
-    "angular-ui-bootstrap": "0.13.4"
+    "angular-ui-bootstrap": "0.14.3"
   },
   "publishConfig": {
     "access": "public"
